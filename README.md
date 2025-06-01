@@ -1,6 +1,6 @@
-# Currency Converter
-## 🛠️Tech Stacks
-- **HTML**
-- **CSS**
-- **JS**
+# 🤑 Currency Converter 💸
+## 🛠️ Tech Stacks
+ - **HTML**
+ - **CSS**
+ - **JS**
 ---
